@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lajoh20
 - 👀 coding problems
-- 🌱 next.js
 - 📫 lewis@elif.run
 
 <!---
